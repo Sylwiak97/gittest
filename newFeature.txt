@@ -1,1 +1,1 @@
-to jest zmiana na new Feature branchu
+to jest zmiana na masterze
